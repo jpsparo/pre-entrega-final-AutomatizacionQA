@@ -129,24 +129,3 @@ Los reportes HTML permiten visualizar el resultado de la ejecución de las prueb
 
 La carpeta reports/ está destinada a almacenar los reportes y las evidencias generadas durante la ejecución.
 
-Autor
-
-Proyecto realizado como trabajo práctico de automatización QA.
-
-
----
-
-# 7. Los archivos `__init__.py`
-
-Estos cuatro archivos:
-
-```text
-tests/__init__.py
-pages/__init__.py
-utils/__init__.py
-
-pueden estar completamente vacíos.
-
-Por ejemplo:
-
-No tenés que escribir nada dentro.
